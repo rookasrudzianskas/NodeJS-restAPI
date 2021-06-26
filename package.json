@@ -1,0 +1,19 @@
+{
+  "name": "front_end",
+  "version": "1.0.0",
+  "description": "This is node JS rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rookasrudzianskas/NodeJS-restAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rookasrudzianskas/NodeJS-restAPI/issues"
+  },
+  "homepage": "https://github.com/rookasrudzianskas/NodeJS-restAPI#readme"
+}
